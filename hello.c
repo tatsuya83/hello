@@ -6,5 +6,6 @@ Date: 2020/01/16
 
 int main(void) {
     printf("Tatsuya");
+    printf("computer science");
     return 0;
 }
